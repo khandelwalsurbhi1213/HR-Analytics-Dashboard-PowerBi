@@ -1,10 +1,10 @@
-                                               HR Analytics Dashboard
+# HR Analytics Dashboard
 
-Problem Statement
+## Problem Statement
 
 Why are employees leaving the company?
 
-Project Overview
+## Project Overview
 
 This project is an interactive HR Analytics Dashboard built using Power BI.
 The dashboard analyzes 1,470 employee records to understand employee attrition patterns and identify the major factors contributing to employee exits.
@@ -21,33 +21,18 @@ The main objective of this project is to help HR teams make data-driven decision
 - Employees with 0–1 year of tenure** leave the company the most.
 
 ## Tools Used
-
 - Power BI  
-- DAX Measures  
-- Microsoft Excel / CSV  
-- Power Query  
-- Data Cleaning  
-- Data Visualization  
+- Power BI Desktop
+- DAX Measures & Calculations
+- Microsoft Excel (Data Cleaning)
+- Power BI Slicers (Department filters)
+- Power BI Visualizations:
+ - Donut Chart (Attrition by Education)
+ - Bar Chart (Attrition by Age)
+ - Line Chart (Attrition by Years)
+ - Matrix Table (Job Role wise)
+ - Horizontal Bar (Salary & Job Role)
 
-## Graphs and Visuals Used
-
-- KPI Cards  
-- Bar Chart  
-- Donut Chart  
-- Horizontal Bar Chart  
-- Line Chart  
-- Matrix Table  
-- Department Filter Buttons
-
-## Dashboard Features
-
--Attrition by Age Group
-- Attrition by Education
-- Attrition by Salary Slab
-- Attrition by Job Role
-- Attrition by Years at Company
-- Department-wise Attrition Analysis
-- Interactive Filters and Visual Insights
 
 ## Files in this Repository
 
