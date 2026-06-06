@@ -1,10 +1,10 @@
-                                               ##HR Analytics Dashboard
+                                               HR Analytics Dashboard
 
-##Problem Statement
+Problem Statement
 
 Why are employees leaving the company?
 
-##Project Overview
+Project Overview
 
 This project is an interactive HR Analytics Dashboard built using Power BI.
 The dashboard analyzes 1,470 employee records to understand employee attrition patterns and identify the major factors contributing to employee exits.
