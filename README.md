@@ -21,6 +21,7 @@ The main objective of this project is to help HR teams make data-driven decision
 - Employees with 0–1 year of tenure** leave the company the most.
 
 ## Tools Used
+
 - Power BI  
 - Power BI Desktop
 - DAX Measures & Calculations
